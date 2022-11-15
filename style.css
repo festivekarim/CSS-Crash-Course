@@ -1,0 +1,42 @@
+h1 {
+  color: navy;
+  font-family: "Pacifico", cursive;
+}
+.pink {
+  color: pink;
+}
+.red {
+  color: red;
+}
+.blue {
+  color: blue;
+  font-family: "Pacifico", cursive;
+}
+h2 {
+  color: red;
+  font-family: "Sono", sans-serif;
+}
+h3 {
+  font-family: "Josefin Sans", sans-serif;
+  color: aqua;
+}
+h4 {
+  font-family: "Quicksand", sans-serif;
+  color: springgreen;
+}
+h5 {
+  font-family: "Dancing Script", cursive;
+  color: antiquewhite;
+}
+h6 {
+  font-family: "Quicksand", sans-serif;
+  color: coral;
+}
+div {
+  color: blue;
+}
+
+h2{
+    width: 100%;
+    border: 2px solid red
+}
